@@ -1,9 +1,8 @@
 # AdultIncome_Modeling_NTI
 
 ## Data Understanding
-
-### Handling Null Values
-### EDA
+#### Handling Null Values
+#### EDA
 
 ## Label Encoding
 
@@ -13,11 +12,11 @@
 
 ## Testing diff. models
 
-### Logistic Regression
-### GradientBoosting
-### KNN
-### Random Forest
-### XGBOOST
+#### Logistic Regression
+#### GradientBoosting
+#### Random Forest
+#### KNN
+#### XGBOOST
 
 XGBOOST performed best with accuracies:
 
